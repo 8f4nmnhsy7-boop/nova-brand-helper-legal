@@ -1,1 +1,0 @@
-# nova-brand-helper-legal
